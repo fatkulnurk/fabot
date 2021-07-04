@@ -19,6 +19,9 @@ return [
         'DHG1mY9UapFFKSAFGqR84kTwzbusykHD5a',
         'DPtppRQxaGojMhFG4QfXZ7rbkCS3WESjP7',
         'D5WzqkUueFN7LyvtEoCw6fMyNfT65wBLYN',
+        'DKCLbmLnRFpcRAQHQDVht4oaGJhj1gQxEV',
+        'DCr1cuk4XASe18NkeTHEVKP52KYBMhEkF4',
+        'DBMwZJmBEDr1EaiVgr69xAdmaKpN6tdBes',
         '',
         '',
     ]
