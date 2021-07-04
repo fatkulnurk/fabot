@@ -22,7 +22,7 @@ return [
         'DKCLbmLnRFpcRAQHQDVht4oaGJhj1gQxEV',
         'DCr1cuk4XASe18NkeTHEVKP52KYBMhEkF4',
         'DBMwZJmBEDr1EaiVgr69xAdmaKpN6tdBes',
-        '',
-        '',
+        'DPp4319sL7suSn6irnPs4YHuvDJSeDmwJF', // wawan@dibumi.com
+        '', //  dino@dibumi.com
     ]
 ];
