@@ -112,9 +112,9 @@ while (true) {
         }
     }
 
-    for ($i = 60; $i >= 0; $i--) {
+    for ($i = 50; $i >= 0; $i--) {
         echo "\r            \r";
-        echo "{$red}Menunggu {$putih}$i detik";
+        echo "{$red}Menunggu {$putih}$i";
         sleep(1);
     }
     echo "\r\r";
