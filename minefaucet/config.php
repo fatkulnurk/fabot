@@ -18,7 +18,7 @@ return [
         'DDjVcm8PSUniaYYkFXppFU3PQzvn7ynefp',
         'DHG1mY9UapFFKSAFGqR84kTwzbusykHD5a',
         'DPtppRQxaGojMhFG4QfXZ7rbkCS3WESjP7',
-        '',
+        'D5WzqkUueFN7LyvtEoCw6fMyNfT65wBLYN',
         '',
         '',
     ]
