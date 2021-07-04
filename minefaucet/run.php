@@ -112,7 +112,7 @@ while (true) {
         }
     }
 
-    for ($i = 50; $i >= 0; $i--) {
+    for ($i = 45; $i >= 0; $i--) {
         echo "\r            \r";
         echo "{$red}Menunggu {$putih}$i";
         sleep(1);
