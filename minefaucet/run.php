@@ -113,7 +113,7 @@ while (true) {
         }
     }
 
-    for ($i = 25; $i >= 0; $i--) {
+    for ($i = 19; $i >= 0; $i--) {
         echo "\r            \r";
         echo "{$red}Menunggu {$putih}$i";
         sleep(1);
