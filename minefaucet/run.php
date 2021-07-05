@@ -109,10 +109,11 @@ while (true) {
             echo "$blue" . $msg . "$lblue2" . $msg2 . "\n";
         } else {
             echo "Gagal: $wallet\n";
+            sleep(1);
         }
     }
 
-    for ($i = 45; $i >= 0; $i--) {
+    for ($i = 5; $i >= 0; $i--) {
         echo "\r            \r";
         echo "{$red}Menunggu {$putih}$i";
         sleep(1);
