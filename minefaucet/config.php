@@ -33,8 +33,5 @@ return [
         'DFiqWnMVy3qSem8JQGxvotnJyxMgAiENow',
         'DGFEQdA5oimNHaQvfnNoj6mQYYr1LdKESH',
         'D6UKrfepumbzuEubvkdNB8iUTiKjrmvfFa', //30
-        '',
-        '',
-        '',
     ]
 ];
